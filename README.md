@@ -1,6 +1,9 @@
 ## Project Name
 Pokemon Battle Royale Simulator
 
+## Documentation Link
+https://drive.google.com/drive/folders/1-X1npLNNvquIVQOYoE23AKanVuKTbOCs?usp=sharing
+
 ## Authors
 |       <img src="public/assets/image/VinsenN.jpeg" height="200px"/>       |
 | :----------------------------------------------------------------------: |
